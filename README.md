@@ -94,4 +94,6 @@ Mais informações: [LeIA no PyPI](https://pypi.org/project/leia-br/)
 
 Este projeto é ideal para aplicações que precisam de análise de sentimentos rápida, local e em português, sem dependências de APIs externas.
 
+Projeto baseado no modelo VADER em pt-BR, feito pelo autor: [LeIA](https://github.com/rafjaa/LeIA)
+
 ***
